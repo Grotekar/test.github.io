@@ -1,0 +1,12 @@
+#top { height: 15%; width:100%;}
+
+h1,h2 {text-transform: uppercase;text-align: center;}
+h1 { font-size: 28pt; text-shadow: black 1pt 1pt; }
+	.nazvanie_knigi { background: url(../images/1.jpg);text-shadow: black 3pt 3pt 3pt 3pt; color: white; padding: 1.5% 0}
+	.college, .college1 {text-shadow: black 3pt 3pt 3pt 3pt; color: white; padding: 1.5% 1.5%;}
+	.college0 {background: url(../images/2.jpg) no-repeat; background-size: 100%; margin: -1.6%}
+#content { float:left; font-size: 22pt; text-align: justify;}
+li {list-style-type: none; padding-top: 1.5%}
+a {color: #0000ff;}
+
+#footer { height: 15%; width:100%; clear: left}

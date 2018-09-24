@@ -1,0 +1,27 @@
+#top { height: 100px; width:100%; background: url(../images/1.jpg); }
+
+#navigation { height: 70%; width:20%; float: right;}
+	.navigation {font-size: 14pt;}
+li {padding-top: 3%}
+#content { height: 70%; width:75%; float:right;}
+p {font-size: 24pt; text-align: justify;}
+	.spisok	{font-size: 24pt; margin-top: -2.5%; }
+h1,h2 {text-transform: uppercase;text-align: center;}
+h1 { font-size: 28pt; text-shadow: black 1pt 1pt 1pt 1pt; }
+	.nazvanie_knigi {text-shadow: black 3pt 3pt 3pt 3pt; color: white; padding: 1.5% 0}
+	.glava {background-color: #ffa500}
+table {font-size: 20pt; border-collapse: collapse;}
+th,td {border: 2px solid black; padding: 1.5%; word-wrap: break-word }
+caption {padding: 2%}
+.verh {font-size: 28pt; padding-left: 30%}
+.nazad {font-size: 28pt}
+.vpered {font-size: 28pt; padding-left: 40%;  }
+a {color: #0000ff;}
+.images {text-align: center; }
+img {width: 75%;}
+.tab_bez_gran {border: hidden;}
+.images1 {width: 35%}
+.primer {font-size: 20pt}
+.prilozhenie {border: 2px double black; width: 100%}
+
+#footer {font-size: 28pt;  text-align: center; height: 150px; width:100%; clear: right; background-color: #ADD8E6}
